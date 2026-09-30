@@ -1,346 +1,356 @@
-# 👋 Hi, I'm Gopika J
+<div align="center">
 
-### `CSE Undergraduate • Software Developer • Problem Solver`
+<img src="./assets/github-banner.png" width="100%" alt="Gopika J GitHub Banner"/>
 
-I enjoy building applications that turn ideas into something people can actually use.
+<br><br>
 
-Currently strengthening my skills in **Java, Data Structures & Algorithms, SQL and Software Development**.
+# 👩‍💻 Gopika J
 
----
+### CSE Undergraduate · Software Developer
 
-## 🌸 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=700&lines=CSE+Undergraduate;Java+Enthusiast;Full-Stack+Developer" alt="Typing Animation"/>
 
-🎓 B.E. Computer Science & Engineering student at **Dr. N.G.P. Institute of Technology**
-
-💻 Interested in **Software Development & Full-Stack Development**
-
-☕ Working with **Java, C, Python and SQL**
-
-🌐 Building applications with **HTML, CSS, JavaScript, Node.js and Express.js**
-
-🗄️ Working with **MongoDB and MySQL**
-
-🧠 Building my foundation in **DSA, OOP and DBMS**
-
-🤖 Exploring practical applications of **Machine Learning**
-
-🎨 Interested in **UI/UX Design**
-
-🌱 I enjoy learning by building, debugging and improving real projects.
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+## 👋 A Little About Me
 
-### 💻 Programming Languages
+I'm a **Computer Science & Engineering undergraduate** who enjoys learning by actually building things.
 
-<p>
+I started with programming fundamentals and gradually moved towards **web development, backend systems, databases and machine-learning based applications**.
+
+Currently, I'm focusing on strengthening my foundations in **Java, DSA, SQL, OOP and software development**.
+
+```text
+        LEARN
+          ↓
+      UNDERSTAND
+          ↓
+        BUILD
+          ↓
+        DEBUG
+          ↓
+       IMPROVE
+```
+
+🌱 I believe that every project is an opportunity to learn something new.
+
+---
+
+# 💻 My Tech Universe
+
+### Languages
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,c,python,javascript" />
 </p>
 
-**Also:** `SQL`
+<p align="center">
+<img src="https://img.shields.io/badge/SQL-Database-4169E1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
----
+### Frontend
 
-### 🌐 Frontend
-
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
-`Responsive Web Design`
+### Backend
 
----
-
-### ⚙️ Backend
-
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-`REST APIs` `API Integration`
+### Databases
 
----
-
-### 🗄️ Databases
-
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
----
+### Tools
 
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" />
 </p>
 
-`IntelliJ IDEA`
+### Core Concepts
+
+<p align="center">
+
+`DSA`   `OOP`   `DBMS`   `REST APIs`
+
+</p>
 
 ---
 
-### 🧩 Core Concepts
+# 🚀 Projects
 
-`Data Structures & Algorithms`
+## 🧠 Stress Free Life
 
-`Object-Oriented Programming`
+### AI-Powered Mental Wellness Monitoring
 
-`DBMS`
+A wellness-focused application designed to monitor stress patterns using smartwatch-related health and activity data.
 
-`Problem Solving`
+The system works with **heart rate, sleep and activity information** and uses Machine Learning to identify stress patterns and provide wellness support.
 
----
+**What it includes**
 
-# 🚀 Things I've Built
+* ❤️ Heart-rate monitoring
+* 😴 Sleep tracking
+* 🏃 Activity information
+* 🤖 ML-based stress detection
+* 🔔 Stress alerts
+* 🧘 Relaxation suggestions
+* 💡 Wellness recommendations
+* 📊 Interactive dashboard
 
-## 🧠 01 • Stress Free Life
+**Tech Stack**
 
-### AI-Powered Mental Health Monitoring System
-
-A wellness-focused application designed for continuous stress monitoring using smartwatch-related health and activity data.
-
-The system uses **heart rate, sleep and activity information** along with Machine Learning to identify stress patterns and provide personalized wellness support.
-
-🔹 Real-time stress monitoring
-
-🔹 Heart-rate based data
-
-🔹 Sleep and activity tracking
-
-🔹 Machine Learning based stress detection
-
-🔹 Stress alerts
-
-🔹 Personalized relaxation tips
-
-🔹 Wellness recommendations
-
-🔹 User-focused dashboard
-
-### 🧠 Technologies
-
-`React` `TypeScript` `Node.js` `Express.js` `MongoDB` `Python` `FastAPI` `Scikit-learn`
+`React` `TypeScript` `Node.js` `Express.js`
+`MongoDB` `Python` `FastAPI` `Scikit-learn`
 
 ---
 
-## 🎓 02 • Student Management Portal
+## 🎓 Student Management Portal
 
-### Full-Stack Role-Based Management System
+### Role-Based Educational Management System
 
-A full-stack student management platform designed around different users within an educational environment.
+A full-stack web application designed to manage different activities within an educational environment.
 
-🔹 Admin dashboard
+**Key features**
 
-🔹 Student dashboard
+* 👨‍💼 Admin management
+* 👨‍🏫 Teacher management
+* 🎓 Student dashboard
+* 👨‍👩‍👧 Parent dashboard
+* 💰 Accountant dashboard
+* 🔐 JWT authentication
+* 📝 Assignments
+* 📊 Attendance & marks
+* 💳 Fee management
+* 🧾 Automated fee receipts
+* 📄 Report generation
 
-🔹 Teacher dashboard
+**Tech Stack**
 
-🔹 Parent dashboard
-
-🔹 Accountant dashboard
-
-🔹 Role-based access
-
-🔹 JWT-based authentication
-
-🔹 Student and teacher management
-
-🔹 Attendance and marks
-
-🔹 Assignment management
-
-🔹 Fee management
-
-🔹 Automated fee receipt generation
-
-🔹 Report generation
-
-### 🧠 Technologies
-
-`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB` `JWT`
+`HTML` `CSS` `JavaScript`
+`Node.js` `Express.js` `MongoDB` `JWT`
 
 ---
 
-## 🌍 03 • Decentralized Environmental Monitoring for Smart Cities
+## 🌍 Environmental Monitoring for Smart Cities
 
-### Pollution Monitoring & Clean Route Platform
+### Pollution Information & Clean Route Platform
 
-A citizen-focused environmental monitoring platform designed to present pollution information, location-based data and cleaner route options.
+A web platform focused on presenting environmental information and helping users explore pollution data and cleaner travel routes.
 
-🔹 Air pollution monitoring
+**Key features**
 
-🔹 Real-time AQI information
+* 🌫️ Air pollution information
+* 📍 Location-based data
+* 📊 AQI information
+* 🧪 PM2.5 & PM10 data
+* 🗺️ Pollution maps
+* 👥 Citizen reporting
+* 📈 Environmental analytics
+* 📄 Reports
+* 🛣️ Clean Route Navigator
+* 🧭 Alternative route planning
 
-🔹 PM2.5 and PM10 data
-
-🔹 Pollution maps
-
-🔹 Citizen reporting
-
-🔹 Location services
-
-🔹 Environmental analytics
-
-🔹 Reports
-
-🔹 Clean Route Navigator
-
-🔹 Alternative route planning
-
-### 🌐 APIs & Technologies
+**APIs & Technologies**
 
 `OpenWeather Air Pollution API`
 
-`OpenStreetMap Nominatim API`
+`OpenStreetMap Nominatim`
 
-`OSRM API`
+`OSRM`
 
 `Maps` `Analytics` `Web Development`
 
 ---
 
-# 💼 Internship Experience
+# 💼 Experience
 
-## 🏢 Ether Infotech
+## Ether Infotech
 
 ### Full-Stack Development Training
 
-**15-Day Full-Stack Development Training**
+**15-Day Training**
 
-During my training, I worked through guided development exercises covering both frontend and backend technologies.
+Worked with frontend and backend technologies while learning how different parts of a web application communicate with each other.
 
-### 🔹 Exposure
+### Technologies Used
 
-`HTML`
+`HTML` `CSS` `JavaScript`
 
-`CSS`
-
-`JavaScript`
-
-`Node.js`
-
-`Express.js`
+`Node.js` `Express.js`
 
 `Database Connectivity`
 
-### 💡 What I learned
-
-Understanding how a web application connects different layers:
+### Application Flow
 
 ```text
-        FRONTEND
-            ↓
-       API REQUEST
-            ↓
-        BACKEND
-            ↓
-         DATABASE
-            ↓
-       API RESPONSE
-            ↓
-        DASHBOARD
+┌──────────────┐
+│   FRONTEND   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│   REST API   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│    SERVER    │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│   DATABASE   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│   RESPONSE   │
+└──────────────┘
 ```
 
-The experience helped me understand the connection between frontend interfaces, backend APIs and databases.
+This experience helped me understand how **frontend, backend, APIs and databases work together**.
 
 ---
 
 # 🎓 Education
 
-### 🎓 B.E. Computer Science & Engineering
+### B.E. Computer Science & Engineering
 
 **Dr. N.G.P. Institute of Technology**
 
 `2023 – Present`
 
-**CGPA: 8.33**
+**CGPA — 8.33**
 
 ---
 
-### 📚 Higher Secondary Education
+### Higher Secondary Education
 
 **Sree Dharmasastha Matric Hr. Sec. School**
 
 `2022 – 2023`
 
-**Percentage: 90%**
+**Percentage — 90%**
 
 ---
 
-# 🎯 Areas of Interest
+# 🎯 What I'm Interested In
 
-```text
-💻 Full-Stack Development
-⛓️ Blockchain Technology
-🎨 UI/UX Design
-🧩 Problem Solving
-🤖 Machine Learning
-```
+<div align="center">
+
+| Area                      | Focus                           |
+| ------------------------- | ------------------------------- |
+| 💻 Software Development   | Building practical applications |
+| 🌐 Full-Stack Development | Frontend + Backend              |
+| ☕ Java                    | Core concepts & development     |
+| 🧩 DSA                    | Problem solving & coding        |
+| 🗄️ Databases             | SQL & MongoDB                   |
+| 🤖 Machine Learning       | Practical applications          |
+| 🎨 UI/UX                  | Clean and usable interfaces     |
+
+</div>
 
 ---
 
 # 🌱 Currently Learning
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java" />
+
+</div>
+
 ```text
-☕ JAVA
-   ↓
-🧩 DATA STRUCTURES & ALGORITHMS
-   ↓
-🧠 PROBLEM SOLVING
-   ↓
-🗄️ SQL & DATABASES
-   ↓
-🌐 FULL-STACK DEVELOPMENT
-   ↓
-🚀 BUILDING REAL-WORLD APPLICATIONS
+Java
+ │
+ ├── OOP
+ │
+ ├── Collections
+ │
+ ├── Exception Handling
+ │
+ └── Core Java
+       │
+       ▼
+      DSA
+       │
+       ▼
+   Problem Solving
+       │
+       ▼
+      SQL
+       │
+       ▼
+Full-Stack Development
 ```
 
-My focus is not just learning syntax.
-
-I want to understand **why something works, how it works and where I can use it.**
+My current goal is to move from **knowing syntax → understanding concepts → solving problems → building applications**.
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gopika1705&show_icons=true&hide_border=true&theme=transparent" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Gopika1705&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopika1705&layout=compact&hide_border=true&theme=transparent" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopika1705&layout=compact&hide_border=true&theme=transparent" height="165"/>
 
-</p>
+<br><br>
 
-<p align="center">
+<img src="https://streak-stats.demolab.com?user=Gopika1705&hide_border=true&theme=transparent" />
 
-<img src="https://streak-stats.demolab.com?user=Gopika1705&hide_border=true&theme=transparent"/>
-
-</p>
+</div>
 
 ---
 
-# 🐍 Contribution Trail
+# 🐍 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
-</p>
+</div>
 
 ---
 
-# 🌐 Let's Connect
+# 🔗 Find Me Here
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Gopika1705">
-<img src="https://img.shields.io/badge/GitHub-Gopika1705-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/gopika-jayaraman-63aaa4411">
-<img src="https://img.shields.io/badge/LinkedIn-Gopika%20Jayaraman-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:gopikajayaraman17@gmail.com">
-<img src="https://img.shields.io/badge
+<img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+Keep Learning. Keep Building. ✨
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,20&height=3&section=footer" width="80%"/>
+
+<br>
+
+**Thanks for visiting my profile! 👋**
+
+</div>
