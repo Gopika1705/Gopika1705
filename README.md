@@ -43,7 +43,7 @@ Currently, I'm focusing on strengthening my foundations in **Java, DSA, SQL, OOP
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,c,python,javascript" />
+<img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
 <p align="center">
