@@ -2,15 +2,6 @@
   <img src="./github-banner.png" width="100%" alt="Gopika J - GitHub Banner" />
 </p>
 
-# 👩‍💻 Gopika J
-
-### CSE Undergraduate · Software Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=700&lines=CSE+Undergraduate;Java+Enthusiast;Full-Stack+Developer" alt="Typing Animation"/>
-
-</div>
-
----
 
 ## 👋 A Little About Me
 
